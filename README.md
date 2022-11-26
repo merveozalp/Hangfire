@@ -30,4 +30,4 @@ BackgroundJob.ContinueWith(
     jobId,
     () => Console.WriteLine("Continuation!"));
     
-    ### Proje içeriğinde RecurringJob kullanıldı. 5 saniyede bir verilen API üerinden bilgiler çekilmektedir.
+### Proje içeriğinde RecurringJob kullanıldı. 5 saniyede bir verilen API üerinden bilgiler çekilmektedir.
